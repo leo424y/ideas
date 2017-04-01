@@ -1,2 +1,2 @@
 print("hello,world")
-print("假装这是一个代码项目")
+print("假裝這是一個程式碼項目")

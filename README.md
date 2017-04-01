@@ -1,7 +1,7 @@
 
-> 孵化中的idea见[issues](https://github.com/phodal/ideas/issues)
+> 孵化中的idea見[issues](https://github.com/phodal/ideas/issues)
 
-这些Idea的实战指南见：[Ideabook](https://github.com/phodal/ideabook)电子书
+這些Idea的實戰指南見：[Ideabook](https://github.com/phodal/ideabook)電子書
 
 
 *   [Done(:thumbsup:)](#donethumbsup)
@@ -37,19 +37,19 @@
     *   [](#bamboo-python)[Bamboo Python](https://github.com/phodal/bamboo_py)
     *   [](#lettuce)[Lettuce](https://github.com/phodal/lettuce)
     *   [](#echoes-cms)[Echoes CMS](https://github.com/phodal/echoes)
-    
+
 
 #Done(:thumbsup:)
 
 ##[Growth](https://github.com/phodal/growth)
 
-> 成为顶尖的Web开发者的APP
+> 成為頂尖的Web開發者的APP
 
- - 完整的Web开发流程介绍
- - 如何写好代码——重构、测试、模式
- - Web应用的分析和部署
- - 遗留代码、遗留系统的形成
- - 每一阶段所需的技能
+ - 完整的Web開發流程介紹
+ - 如何寫好程式碼——重構、測試、模式
+ - Web應用的分析和部署
+ - 遺留程式碼、遺留系統的形成
+ - 每一階段所需的技能
 
 ![Growth](https://github.com/phodal/growth/raw/master/marketing/2.pic.jpg) ![Growth](https://github.com/phodal/growth/raw/master/marketing/1.pic.jpg)
 
@@ -84,16 +84,16 @@ Online: [http://md.phodal.com/](http://md.phodal.com/)
 
 > Next-Generation Tech Blog/Presentation Framework
 
-- 支持 Markdown
-- Github代码显示
-- 全屏背景图片
-- 左/右侧图片支持
-- 进度条
-- 自动播放
+- 支援 Markdown
+- Github程式碼顯示
+- 全屏背景圖片
+- 左/右側圖片支援
+- 進度條
+- 自動播放
 - 字幕
 - 分屏控制
 
-##[墨乐 - Mole, a github-base note](https://github.com/phodal/mole)
+##[墨樂 - Mole, a github-base note](https://github.com/phodal/mole)
 
 Features:
 
@@ -137,7 +137,7 @@ Online Demo: https://phodal.github.io/mole-web/
 
 > RESUME Generator
 
-> 一个简易的简历生成器。
+> 一個簡易的簡歷生成器。
 
 Demo: [http://resume.phodal.com](http://resume.phodal.com)
 
@@ -151,7 +151,7 @@ Demo: [http://resume.phodal.com](http://resume.phodal.com)
 
 ##[Moqi Mobi](https://github.com/phodal/moqi.mobi)
 
-> 开源移动CMS框架
+> 開源移動CMS框架
 
 Demo: [http://cms.moqi.mobi](http://cms.moqi.mobi)
 
@@ -179,7 +179,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ##[Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
 
-> Django ElasticSearch Ionic 打造 GIS 移动应用
+> Django ElasticSearch Ionic 打造 GIS 移動應用
 
 - ElasticSearch
 - Django
@@ -209,7 +209,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ![Google Map Solr Demo](https://raw.githubusercontent.com/phodal/gmap-solr/master/screenshot/screenshot.png)
 
-> Solr Polygon Search 
+> Solr Polygon Search
 
 - Google Map
 - Solr
@@ -234,11 +234,11 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ![Iot Dashboard](https://raw.githubusercontent.com/phodal/iot-dashboard/master/doc/screenshot.png)
 
-> Internet of Things Dashboard 
+> Internet of Things Dashboard
 
 - Ruby
 - Dashing
- 
+
 ##[Design Internet of Things](https://github.com/phodal/designiot-app)
 
 > Internet of Things APP
@@ -252,7 +252,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ##[Github Roam](https://github.com/phodal/github-roam)
 
-> GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
+> GitHub 漫遊指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
 
 ##[Big Data](https://github.com/phodal/learning-data)
 
@@ -294,9 +294,9 @@ Sleeping(:sleeping:)
 
 Features:
 
- - 兼容微信小程序的语法——它并没有多少复杂的语法。只是简单的Virtual DOM操作，以及事件绑定
- - 尽可能兼容大部分的微信API，兼容所有的微信API几乎是不可能的。
- - 提供一个Virtual DOM转换的混合应用插件。
+ - 相容微信小程式的語法——它並沒有多少複雜的語法。只是簡單的Virtual DOM操作，以及事件繫結
+ - 儘可能相容大部分的微信API，相容所有的微信API幾乎是不可能的。
+ - 提供一個Virtual DOM轉換的混合應用外掛。
 
 ###[Cordova WordPress](https://github.com/phodal/cordova-wordpress)
 
@@ -319,7 +319,7 @@ Features:
 
 ###[Falcon Wordpress](https://github.com/phodal/falcon-wordpress)
 
-> Falcon WordPress RESTful API 
+> Falcon WordPress RESTful API
 
 - Falcon
 - Peewee
@@ -353,13 +353,13 @@ Features:
 
 ###[Bamboo Python](https://github.com/phodal/bamboo_py)
 
-> Python+Arduino Show Bamboo Status 
+> Python+Arduino Show Bamboo Status
 
 - Python Arduino
 
 ###[Lettuce](https://github.com/phodal/lettuce)
 
-> Mobile Framework for Romantic. 简约的移动开发框架
+> Mobile Framework for Romantic. 簡約的移動開發框架
 
 - JavaScript
 
